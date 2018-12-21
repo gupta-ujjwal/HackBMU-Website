@@ -308,6 +308,7 @@ p.lead.Home-para1{
 
 
 /* Our Team */
+
 .feature h5{
 	font-size : 1.5em !important;
 }
@@ -338,6 +339,14 @@ p.lead.Home-para1{
     color: #0575E6 !important;
 }
 
+.team-icon {
+    margin:20px;
+}
+
+#TeamHeading {
+    padding-top: 4em !important;
+    padding-bottom: 0px !important;
+}
 
 /* Gallery */
 #carouselExampleIndicators {
@@ -368,6 +377,10 @@ p.lead.Home-para1{
         padding-bottom: 20px !important;
     }
 } 
+
+#DownloadBrochure {
+    background: #f1f1f1;
+}
 
 #DownloadBrochure h1 {
     color: #363636;
